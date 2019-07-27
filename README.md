@@ -34,7 +34,7 @@ Switch to IOT Remote Buttons view in menu.
 ![controls](controls.jpg)
 
 
-## MIDI controller
+# MIDI controller
 
 * Leonardo - Micrcontroller
 * buttons
@@ -48,3 +48,5 @@ Switch to IOT Remote Buttons view in menu.
 
 
 
+
+[MIDI firmware](midi_firmware)
