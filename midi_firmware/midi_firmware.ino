@@ -98,6 +98,7 @@ void loop() {
     
     volume(volVal);
     MidiUSB.flush();
+    delay(5);
    }
 
    if(newModVal != modVal) {
@@ -105,6 +106,7 @@ void loop() {
     
     modulate(modVal);
     MidiUSB.flush();
+    delay(5);
    }
 
 
