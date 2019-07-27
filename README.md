@@ -11,7 +11,6 @@
 
 * Custom Chassis
 * Arduino Leonardo
-* L298N - Motor Driver
 * Continuous Motion Servo
 * Batteries
 * wheels
